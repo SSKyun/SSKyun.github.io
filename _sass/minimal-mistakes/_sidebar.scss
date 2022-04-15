@@ -62,8 +62,9 @@
   }
 
   img {
-    width: 100%;
-
+    max-width: 150px;
+    border-radius:30;
+     
     &.emoji {
       width: 20px;
       height: 20px;
